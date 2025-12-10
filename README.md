@@ -2,6 +2,10 @@
 
 A clean and responsive landing page for a food delivery service, built using HTML, CSS, and JavaScript. The design features a modern hero section, smooth scrolling navigation, and a sticky header for improved user experience.
 
+## Live Demo
+[![Live Demo](https://img.shields.io/badge/View-Live%20Site-blue)](https://sabbirshaikh.github.io/FoodieGo---Food-Delivery-App/)
+
+
 ## Features
 
 - Sticky navigation bar on scroll
