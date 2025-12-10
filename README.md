@@ -3,6 +3,7 @@
 A clean and responsive landing page for a food delivery service, built using HTML, CSS, and JavaScript. The design features a modern hero section, smooth scrolling navigation, and a sticky header for improved user experience.
 
 ## Features
+
 - Sticky navigation bar on scroll
 - Smooth scrolling between sections
 - Responsive layout for all devices
@@ -10,6 +11,7 @@ A clean and responsive landing page for a food delivery service, built using HTM
 - Clean and organized project structure
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript (ES6)
@@ -17,6 +19,7 @@ A clean and responsive landing page for a food delivery service, built using HTM
 - Google Fonts
 
 ## Project Structure
+
 ```
 /
 │── index.html
@@ -27,9 +30,7 @@ A clean and responsive landing page for a food delivery service, built using HTM
 ```
 
 ## How to Use
+
 1. Clone or download the project.
 2. Open **index.html** in any modern browser.
 3. No additional setup required.
-
-## License
-This project is available under the MIT License.
